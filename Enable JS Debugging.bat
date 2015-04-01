@@ -1,0 +1,1 @@
+reg add HKLM\SOFTWARE\Microsoft\VisualStudio\9.0\AD7Metrics\Engine\{F200A7E7-DEA5-11D0-B854-00A0244A1DE2} /v ProgramProvider /d {170EC3FC-4E80-40AB-A85A-55900C7C70DE} /f
